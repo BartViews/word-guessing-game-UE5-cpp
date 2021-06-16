@@ -6,5 +6,7 @@ Though it is based on the course, the code is personalised and has additional fu
 
 Game code is located in BullCowCartridge.cpp file, functions are called in BullCowCartridge.h header file and word list is contained in HiddenWordList.h header file.
 
+Attaching only the game raw cpp code due to high volume of UE files.
+
 Regards,
 Bart.
